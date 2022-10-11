@@ -1,6 +1,5 @@
 
 ### Como usarlo
-crear campo de actualizacion del perfil
 
 
 pip install -r requirements.txt
